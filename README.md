@@ -2,7 +2,7 @@
 
 # Build Instructions
 
-export ALLOW_MISSING_DEPENDENCIES=true
-source build/envsetup.sh
-lunch omni_Armor_3WT-eng
-mka recoveryimage
+export ALLOW_MISSING_DEPENDENCIES=true<br>
+source build/envsetup.sh<br>
+lunch omni_Armor_3WT-eng<br>
+mka recoveryimage<br>
